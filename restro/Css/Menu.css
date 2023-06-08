@@ -1,0 +1,21 @@
+body
+{
+    background-color: orangered;
+}
+.m1
+{
+   margin-left: 5%;
+   font-size: 30px;
+}
+.main
+{
+    position: absolute;
+    left: 28%;
+    top: 10%;
+}
+.V
+{
+  font-size: 20px;
+  font: bold;
+  color: white;
+}

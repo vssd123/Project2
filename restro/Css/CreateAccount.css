@@ -1,0 +1,71 @@
+body
+{
+    background-color: orange;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.form
+{
+    margin-top: 80px;
+    height: 550px;
+    width: 300px;
+    margin-left: 25px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+    background-color:white
+}
+.heading
+{
+    text-align: center;
+}
+.lab
+{
+   font-size: 20px;
+   font-weight: bold;
+   margin-left: 10px;
+   padding-right: 100%;
+}
+.drop
+{
+    margin-left: 20%;
+}
+.photo1
+{
+   font-size: 15px;
+   font-weight: bold;
+   margin-left: 80px;
+   padding-right: 100%;
+
+}
+.check
+{
+    margin-right: 200px;
+    margin-left: 0px;
+    padding-right: 50px;
+}
+.in1
+{
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 50%;
+    margin-bottom: 10px;
+   border-radius: 20px;
+    height: 25px;
+    padding-left: 25px;
+    font-weight: bold;
+    border-style: none; 
+    background-color:rgb(229, 233, 213); 
+    box-shadow: 10px 10px 10px;
+}
+.file
+{
+    margin-top: 20px;
+}
+.sub
+{
+    background-color: rgb(90, 96, 84);
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 5px 10px black;
+}

@@ -1,0 +1,38 @@
+.booked
+{
+    margin-top: -20%;
+    color: white;
+    margin-right: 8%;
+}
+.hotel
+{
+    color:white;
+}
+.icon
+{
+    height: 50px;
+    width: 50px;
+}
+body img
+{
+    width: 100%;
+    height: 100vh;
+}
+.booked img
+{
+    background-color: aliceblue;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+body a button
+{
+    border: 2px rgb(12, 9, 9);
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+}
+body a button:hover
+{
+    color: orangered;
+}
+
